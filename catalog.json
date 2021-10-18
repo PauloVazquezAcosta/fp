@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Lulú de Cartón",
+    "description": "É unha parodia de Betty Boop. É unha muller hermafrodita e neurótica preocupada polo seu físico, propensa a entrar en episodios psicópatas. É representada en branco e negro, como o símbolo sexual dos anos 20. É dos personaxes máis recoñecidos por non deixar de comer, ter baixa autoestima, cortarse a si mesma, caer en constantes ataques psicóticos e pola súa obesidade, aínda que tivo problemas de bulimia e anorexia. O seu tema é as caricaturas dos anos 20.",
+    "image_url": "https://raw.githubusercontent.com/PauloVazquezAcosta/fp/main/lulu_carton.png"
+  },
+  {
+    "name": "Morocha Amorocha",
+    "description": "É unha parodia de Valerie Brown da serie Josie and the Pussycats. O personaxe está debuxado ao estilo das vellas caricaturas de ‘Scooby Doo’. É unha promiscua, cantante resolve misterios e unha sensual moza de raza negra que está aberta a toda relación, converténdose principalmente na persoa mais corda do grupo. Nun capítulo din que o seu nome completo é Morocha Zankuafaba Amorocha. O seu tema é a discriminación e a sexualidade.",
+    "image_url": "https://raw.githubusercontent.com/PauloVazquezAcosta/fp/main/morocha_amorocha.png"
+  },
+  {
+    "name": "Mueble O'Algo",
+    "description": "É unha parodia de Bob Esponxa e de Izzy, a mascota dos xogos olímpicos de Atlanta, cun estilo de debuxo que lembra tamén ao personaxe de Stimpy. Posúe unha personalidade de descerebrado, similar á do gato pero bastante esaxerada. Nun capítulo din que o seu nome completo é Moble O'Algo de Palocalceta e o seu nome de neno era Noé B. Waldoor (é xudeu). Moble é un personaxe infantil, bastante alegre e ruidoso. Case sempre é mostrado como un personaxe inocente, que adoita aparecer como mellor amigo de alguén, acompañante ou vítima de bromas e manipulacións. O que caracteriza a este personaxe é a súa sensibilidade e a súa hiperventilación de non quedar quieto. As súas intencións na participación deste reality animado é crear amizades, o que non logra moito. Gracioso, simpático, alegre, pallaso de todos. É a representación dos 'personaxes recheo' dos reality shows. O seu tema é os programas educativos.",
+    "image_url": "https://raw.githubusercontent.com/PauloVazquezAcosta/fp/main/mueble_o_algo.jpg"
+  },
+  {
+    "name": "Princesa Clara",
+    "description": "É unha parodia da princesa Ariel da Sireniña e Bela da película A Bela e a Besta, ambas de Disney. Parecía ser bisexual nun primeiro momento, pero vólvese fortemente homófoba o resto da serie, sendo moi conservadora. Representa ás mulleres conservadoras e fanáticas relixiosas de EEUU, caendo moitas veces en episodios psicóticos. É cristiá e adoita ser racista e antisemita. Tén un monstro vivindo na súa vaxina chamado 'Pulpanocha' por causa da súa malvada madrastra. O seu tema é os contos de fadas e a Igrexa.",
+    "image_url": "https://raw.githubusercontent.com/PauloVazquezAcosta/fp/main/princesa_clara.jpg"
+  },
+  {
+    "name": "Puerquísimo Chancho",
+    "description": "É unha parodia das caricaturas flash da internet e a serie Happy Tree Friends, e usa a vestimenta similar á de Eric Cartman, un dos personaxes de South Park. É asqueroso, vulgar e repugnante; realiza bromas de mal gusto. Do mesmo xeito que Clara, é racista. Nalgúns capítulos menciónase que tén esposa e fillos. O seu tema é o absurdo e sucio da Internet.",
+    "image_url": "https://raw.githubusercontent.com/PauloVazquezAcosta/fp/main/puerquisimo_chancho.jpg"
+  },
+]
