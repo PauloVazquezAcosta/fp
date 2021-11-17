@@ -28,5 +28,15 @@
     "name": "Capitanazo",
     "description": "É unha parodia de Superman. A súa personalidade é de Casanova  chulesco e machista (aínda que despois da segunda tempada se torna bisexual), pero que usa as súas habilidades de superheroe nas peores situacións, empeorándoas ou usándoas en proveito propio. Nun capítulo din que o seu nome verdadeiro é Leslie. O seu tema é os cómics.",
     "image_url": "https://raw.githubusercontent.com/PauloVazquezAcosta/fp/main/capitanazo.jpeg"
-  }
+  },
+  {
+    "name": "Ling-ling",
+    "description": "É unha parodia de  Pikachu, o  Pokémon insignia da franquía de videoxogos e anime do mesmo nome. O seu estereotipo é dun samurái que non sabe inglés e só coñece o xaponés, aínda que no episodio onde usan cinta adhesiva para abrir os seus ollos fala en inglés. Ten unha personalidade dócil, adoita ser ao que maltratan. É un dos personaxes máis cordos da serie, ten tendencia a loitar pola honra ao momento de golpear a Capitanazo ata case matalo. Cando quere pelexar póñenselle os pelos de punta coma se fose un saiyajin de Dragon Ball. Así mesmo cando se  entristece inmediatamente emite unha substancia alucinóxena aditiva. Nun episodio lógrase descubrir que Ling-Ling ten en realidade 3 anos, a pesar de ter 21 en canto a experiencia de batalla. O seu nome completo é Ling Ling Hitler Bin Laden Seacrest. O seu tema é o anime (animación proveniente de Xapón) e a discriminación cara aos asiáticos.",
+    "image_url": "https://raw.githubusercontent.com/PauloVazquezAcosta/fp/main/ling-ling.jpg"
+  },
+  {
+    "name": "Xander",
+    "description": "É unha parodia de Link, o heroe da franquía de videoxogos The Legend Of Zelda. Tamén (como referencia) ten unha ombreira na súa vestimenta como Cloud Strife de Final Fantasy VII. É homosexual abertamente. Defíneselle como un desgraciado, pero no fondo ten moita sensibilidade. Nun capítulo, din que o seu nome completo é Xander P. Lindasnalgas. O seu tema é os videoxogos de rol.",
+    "image_url": "https://raw.githubusercontent.com/PauloVazquezAcosta/fp/main/xander.jpg"
+  }  
 ]
